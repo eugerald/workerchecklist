@@ -1,0 +1,27 @@
+{
+  "name": "workerchecklist",
+  "version": "1.0.0",
+  "description": "CLI app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugerald/workerchecklist.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "inquirer"
+  ],
+  "author": "James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugerald/workerchecklist/issues"
+  },
+  "homepage": "https://github.com/eugerald/workerchecklist#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.1.2"
+  }
+}
